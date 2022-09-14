@@ -135,12 +135,17 @@ print(len(newList))
 
 # 1. Understand lists in python programming, 
 # 2. list functions, 
+school_list = ["notebook", "pen"]
 # 3. tuples, 
 # 4. methods and functions,
 # 5. if statements and comparisons in **python** **bold text**
 # 6. by the end of the week, you will learn to develop a text parser, a program that the user will enter any kind of text and the code will give them any information about that text: you will have to learn the index method, extracting sub-strings, methods and properties of string.
 # ## copy this to your own drive
-
+avengers = ["hawkeye", "hulk", "iron man", "black panther", "captamer"]
+multiDimen =[[3,5], [7,6], [6,3], [8,9]]
+print(multiDimen[0][0])
+#multidimensions arrays are more than just
+#a single list of items
 # # First lets go over simpler index methods
 # 
 
